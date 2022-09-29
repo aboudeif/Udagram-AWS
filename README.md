@@ -1,7 +1,7 @@
 
-Status: [![aboudeif](https://circleci.com/gh/aboudeif/Udagram-AWS.svg?style=svg)](https://app.circleci.com/pipelines/github/aboudeif/Udagram-AWS)
 
-# Hosting a Full-Stack Application
+
+# Hosting a Full-Stack Application - [![aboudeif](https://circleci.com/gh/aboudeif/Udagram-AWS.svg?style=svg)](https://app.circleci.com/pipelines/github/aboudeif/Udagram-AWS)
 
 ### **The app is accessible via the link:**
 [http://hall-bucket.s3-website-us-east-1.amazonaws.com](http://udagram1-bucket.s3-website-us-east-1.amazonaws.com/)

@@ -6,8 +6,11 @@
 ### **The app is accessible via the link:**
 [http://udagram1-bucket.s3-website-us-east-1.amazonaws.com](http://udagram1-bucket.s3-website-us-east-1.amazonaws.com)
 
----
-Click here  [screenshots](/screenshots/) to see the Screenshots
+### **Documentation files:**
+1- [Screenshots](/screenshots/)
+2- [App Dependencies](/documentation/app_dependencies.md)
+3- [Infrastructure description](/documentation/infrastructure_description.md)
+4- [Pipeline process](/documentation/pipeline_process.md)
 
 ---
 In this project you will learn how to take a newly developed Full-Stack application built for a retailer and deploy it to a cloud service provider so that it is available to customers. You will use the aws console to start and configure the services the application needs such as a database to store product information and a web server allowing the site to be discovered by potential customers. You will modify your package.json scripts and replace hard coded secrets with environment variables in your code.

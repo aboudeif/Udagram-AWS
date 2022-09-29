@@ -1,5 +1,5 @@
 ## Frontend required npm packages
-$-$
+
 * angular/common
 * angular/core
 * angular/forms
@@ -16,7 +16,7 @@ $-$
 * zone.js
 
 ##  API required npm packages
-%-%
+
 * @types/bcryptjs
 * @types/jsonwebtoken
 * aws-sdk

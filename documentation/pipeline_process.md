@@ -14,4 +14,7 @@
  * npm run api:build
 
 2- job two (Deploy)
- * npm run deploy to run command > 'npm run api:deploy && npm run frontend:deploy'
+ * npm run deploy
+ ```
+ npm run api:deploy && npm run frontend:deploy
+ ```
